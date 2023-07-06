@@ -567,7 +567,7 @@ hr{
 }
 @media screen and (max-width: 150px){
     .socialMediaLinks{
-        text-align: center;
+        text-align: left;
     }
     .aboutusRight{
         text-align: left;
