@@ -565,3 +565,11 @@ hr{
         font-size: 14px;
     }
 }
+@media screen and (max-width: 150px){
+    .socialMediaLinks{
+        text-align: center;
+    }
+    .aboutusRight{
+        text-align: left;
+    }
+}
